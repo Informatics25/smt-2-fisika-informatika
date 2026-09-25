@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Noctis Obscuro",
+    "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
